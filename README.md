@@ -10,4 +10,12 @@ As a Student: As a student, it gives me a lot of anxiety when professors call st
 
 We designed a multiple-page app with two interfaces; one for the professor and one for the student.
 
-# Professor Interface
+#### Professor Interface
+Professors can see how students rated themselves and then decide who to call on in class, to make sure that the students who are called are actually prepared for class. Professors can also use this to gauge overall understanding, and schedule extra review sessions for certain topics.
+
+#### Student Interface
+Students can rate themselves based on how prepared they are for the topics to be discussed in class. This alleviates the anxiety they feel from random name generators, because the professor will not call on them if they are unprepared which avoids humiliation.
+
+### Heroku Link
+
+www.lecturemate.herokuapp.com
